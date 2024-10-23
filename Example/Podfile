@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SwiftUIPodPreview_Example' do
+  pod 'SwiftUIPodPreview', :path => '../'
+
+  target 'SwiftUIPodPreview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
