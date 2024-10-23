@@ -1,0 +1,6 @@
+framework module SwiftUIPodPreview {
+  umbrella header "SwiftUIPodPreview-umbrella.h"
+
+  export *
+  module * { export * }
+}

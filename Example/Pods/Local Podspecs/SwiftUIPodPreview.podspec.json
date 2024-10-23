@@ -1,0 +1,24 @@
+{
+  "name": "SwiftUIPodPreview",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftUIPodPreview.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gerson.lcc@hotmail.com/SwiftUIPodPreview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gerson.lcc@hotmail.com": "gerson.lcc@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gerson.lcc@hotmail.com/SwiftUIPodPreview.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "6",
+  "platforms": {
+    "ios": "18.0"
+  },
+  "source_files": "SwiftUIPodPreview/Classes/**/*",
+  "swift_version": "6"
+}

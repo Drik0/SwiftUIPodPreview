@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUIPodPreview (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUIPodPreview (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUIPodPreview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUIPodPreview: e4760a3dcb38764c8e1dc27319f794af5b3ddca1
+
+PODFILE CHECKSUM: 0b9a91b164a807ed6e6cc95242311d9f3c8d63bf
+
+COCOAPODS: 1.15.2
